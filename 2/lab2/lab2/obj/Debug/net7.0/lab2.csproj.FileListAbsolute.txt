@@ -1,0 +1,15 @@
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\bin\Debug\net7.0\lab2.exe
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\bin\Debug\net7.0\lab2.dll
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.dll
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\1POIT\3\Crypto\labs\2\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll
